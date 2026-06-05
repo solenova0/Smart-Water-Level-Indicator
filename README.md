@@ -214,8 +214,8 @@ This project is licensed under the **MIT License**. See the LICENSE file for ful
 
 ## 👨‍💻 Author
 
-**Your Name**  
-GitHub: [@your-username](https://github.com/solenova)
+** Group 4 Team Members**  
+
 
 ---
 
